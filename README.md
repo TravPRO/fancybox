@@ -1,4 +1,6 @@
-# fancyBox
+# TravPRO Mobile fancyBox
+
+https://stackoverflow.com/questions/13300137/how-to-edit-a-node-module-installed-via-npm/13302095#13302095
 
 jQuery lightbox script for displaying images, videos and more.
 Touch enabled, responsive and fully customizable.
@@ -7,6 +9,12 @@ See the [project page](http://fancyapps.com/fancybox/3/) for documentation and a
 
 Follow [@thefancyapps](//twitter.com/thefancyapps) for updates.
 
+## Custom
+- Remove Pinterest
+- Added email option
+- Download directly files https://stack.travpromobile.com/download.php?url=
+- Custom copy (when available) per type (image, video and infographic)
+- Custom copy per share type (fb, email and twitter)
 
 ## Quick start
 
